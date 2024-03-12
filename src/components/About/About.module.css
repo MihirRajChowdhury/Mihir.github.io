@@ -23,10 +23,14 @@
   display: flex;
   flex-direction: row;
   align-items: center;
+  
 }
-
+.img{
+  padding: 10px;
+  width: 30%;
+}
 .aboutImage {
-  width: 35%;
+  width: 30%;
 }
 
 .aboutItems {

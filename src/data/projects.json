@@ -1,26 +1,24 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Food Villa Front End",
+    "imageSrc": "projects/FoodVilla.png",
+    "description": "This is a Front End project that I made to understand the internal workings of React",
+    "skills": ["React", "Redux", "ReactShimmer"],
+    "demo": "https://mihir-foodvilla.netlify.app/",
+    "source": "https://github.com/MihirRajChowdhury/food-ordering"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Rain Alert Web App Backend",
+    "imageSrc": "projects/Rain.png",
+    "description": "Implemented python libraries with the help of API to make a weather prediction script",
+    "skills": ["Python","API","Open Weather Map","Twilio","Request Library"],
+    "source": "https://github.com/MihirRajChowdhury/rain-alert"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Snake Game Python",
+    "imageSrc": "projects/Snake.png",
+    "description": "Made a Snake Game using Python that we used to play in mobile when we were kids",
+    "skills": ["Python","Turtle Module","Time Module","Request Module"],
+    "source": "https://github.com/MihirRajChowdhury/snake_game"
   }
 ]

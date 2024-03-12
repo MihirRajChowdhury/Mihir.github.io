@@ -31,6 +31,11 @@
   gap: 47px;
   list-style: none;
 }
+li a:hover{
+  background-color: var( --color-primary);
+  border-radius: 5px;
+  padding: 2px;
+}
 
 .menuItems a {
   font-size: 25px;
